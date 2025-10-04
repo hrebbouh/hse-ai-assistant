@@ -1,0 +1,14 @@
+fpdf2
+pypdf
+openai
+langchain
+langchain-openai
+langchain-core
+langchain-text-splitters
+langchain_community
+tiktoken
+pillow
+python-dotenv
+dataclasses-json
+requests
+flask
